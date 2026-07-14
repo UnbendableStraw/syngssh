@@ -195,7 +195,7 @@ From another computer on the same network:
 ssh root@<speaker-ip>
 ```
 
-Use the root password for the build. If login succeeds, dev mode is on and **it will persist through
+Use the root password `mildred` . If login succeeds, dev mode is on and **it will persist through
 future firmware restores**, because the flag lives on the untouched `/devdata` partition.
 
 Optional confirmation on the unit:
